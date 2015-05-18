@@ -1,4 +1,4 @@
-shit
 and stuff
 edited from web
 edited from file and newline
+deleted shit from file
